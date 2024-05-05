@@ -2,6 +2,6 @@
 
 - I dislike Java and shitty B-tree implementations.
 
-- I fucking hate cypersecurity
+- I fucking hate cybersecurity
 
 - I like formal verification and static analysis
